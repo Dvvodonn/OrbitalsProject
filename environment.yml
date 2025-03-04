@@ -1,0 +1,10 @@
+name: orbitals-env
+channels:
+  - conda-forge
+dependencied:
+  - python
+  - numpy
+  - pytest
+  - pip
+  - matplotlib
+  
